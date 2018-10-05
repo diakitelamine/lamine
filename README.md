@@ -1,2 +1,1 @@
-# lamine
-Recette
+Passionné de nouvelles technologies depuis toujours, le métier de développeur logiciel m'est apparu comme une évidence, le codage me passionne également et j'aime apporter mon savoir faire lorsqu'il est question de se lancer dans de nouveaux projets.
